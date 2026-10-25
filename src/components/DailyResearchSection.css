@@ -1,0 +1,32 @@
+.research-container {
+  margin-top: 1rem;
+}
+
+.research-item {
+  background-color: #f8f9fa;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  margin-bottom: 1rem;
+}
+
+.research-item h3 {
+  color: #2c3e50;
+  margin-bottom: 0.5rem;
+}
+
+.research-item p {
+  margin-bottom: 0.5rem;
+}
+
+.update-date {
+  font-style: italic;
+  color: #6c757d;
+  margin-top: 0.5rem;
+}
+
+.loading {
+  text-align: center;
+  padding: 2rem;
+  color: #6c757d;
+}
