@@ -1,6 +1,6 @@
 # AI Engineering Research Hub
 
-A portfolio showcasing forward-deployed AI engineering approaches for coding tasks. This repository demonstrates my vision and approach to integrating AI agents into software development workflows.
+A portfolio showcasing forward-deployed AI engineering approaches for coding tasks.
 
 ## About This Project
 
